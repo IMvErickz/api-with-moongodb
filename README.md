@@ -5,7 +5,7 @@
 
 <div align='center'>
 
-<h2>Used technologies</h2>
+<h2>technologies used</h2>
 
 </div>
 
